@@ -7,4 +7,5 @@ Modelling: In this stage, the problem is defined as a classification and regress
           We use different models on the dataset, predict on the test set and then evaluate those models using the right metrics
           
 Technical article: https://immanuelladuke.medium.com/used-car-data-set-from-crunching-to-predictions-9e0eb04e4fd6
+
 In this article, I describe the process taken to clean and model the used car dataset.
